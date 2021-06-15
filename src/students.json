@@ -1,0 +1,130 @@
+[
+  {
+    "id": 0,
+    "name": "Zoro",
+    "picture": "images/zoro.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 1,
+    "name": "Akame",
+    "picture": "images/akame.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 2,
+    "name": "Sasuke",
+    "picture": "images/sasuke.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 3,
+    "name": "Jotaro",
+    "picture": "images/jotaro.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 4,
+    "name": "Lelouch",
+    "picture": "images/lelouch.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 5,
+    "name": "Vegeta",
+    "picture": "images/vegeta.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 6,
+    "name": "Hinata",
+    "picture": "images/hinata.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 7,
+    "name": "Luffy",
+    "picture": "images/luffy.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 8,
+    "name": "Gon",
+    "picture": "images/gon.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 9,
+    "name": "Akashi",
+    "picture": "images/akashi.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 10,
+    "name": "Light",
+    "picture": "images/light.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 11,
+    "name": "Joseph",
+    "picture": "images/joseph.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 12,
+    "name": "Robin",
+    "picture": "images/robin.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 13,
+    "name": "Subaru",
+    "picture": "images/subaru.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 14,
+    "name": "Naofumi",
+    "picture": "images/naofumi.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  },
+  {
+    "id": 15,
+    "name": "Sakura",
+    "picture": "images/sakura.png",
+    "portugues": 0,
+    "matematica": 0,
+    "ciencias": 0
+  }
+]
